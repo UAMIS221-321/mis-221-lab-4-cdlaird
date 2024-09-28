@@ -1,0 +1,15 @@
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\bin\Debug\net8.0\mis-221-lab-4-cdlaird.exe
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\bin\Debug\net8.0\mis-221-lab-4-cdlaird.deps.json
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\bin\Debug\net8.0\mis-221-lab-4-cdlaird.runtimeconfig.json
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\bin\Debug\net8.0\mis-221-lab-4-cdlaird.dll
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\bin\Debug\net8.0\mis-221-lab-4-cdlaird.pdb
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.AssemblyInfoInputs.cache
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.AssemblyInfo.cs
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.csproj.CoreCompileInputs.cache
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.sourcelink.json
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.dll
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\refint\mis-221-lab-4-cdlaird.dll
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.pdb
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\mis-221-lab-4-cdlaird.genruntimeconfig.cache
+C:\Users\cdlai\Desktop\mis221\labs\mis-221-lab-4-cdlaird\obj\Debug\net8.0\ref\mis-221-lab-4-cdlaird.dll
